@@ -1,5 +1,14 @@
 # Change Log
 
+## 1.7.1
+
+### Patch Changes
+
+- [`96139067d`](https://github.com/chakra-ui/chakra-ui/commit/96139067daa4b9a606b60c73f28a88ccd99d983b)
+  [#3551](https://github.com/chakra-ui/chakra-ui/pull/3551) Thanks
+  [@segunadebayo](https://github.com/segunadebayo)! - NumberInput: add `root` to
+  parts, leverage css variables and update styles to be rtl friendly.
+
 ## 1.7.0
 
 ### Minor Changes

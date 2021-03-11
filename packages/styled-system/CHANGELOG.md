@@ -1,5 +1,17 @@
 # Change Log
 
+## 1.8.1
+
+### Patch Changes
+
+- [`96139067d`](https://github.com/chakra-ui/chakra-ui/commit/96139067daa4b9a606b60c73f28a88ccd99d983b)
+  [#3551](https://github.com/chakra-ui/chakra-ui/pull/3551) Thanks
+  [@segunadebayo](https://github.com/segunadebayo)! - - Fix: issue where RTL
+  property keys are incorrect due to `config.property` mutation.
+  - Fix: change `mx` and `px` to use logical properties. Instead of mapping to
+    `marginLeft` and `marginRight`, it maps to `marginInlineStart` and
+    `marginInlineEnd`. Same for `px`
+
 ## 1.8.0
 
 ### Minor Changes

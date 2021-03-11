@@ -1,5 +1,14 @@
 # Change Log
 
+## 1.1.3
+
+### Patch Changes
+
+- [`96139067d`](https://github.com/chakra-ui/chakra-ui/commit/96139067daa4b9a606b60c73f28a88ccd99d983b)
+  [#3551](https://github.com/chakra-ui/chakra-ui/pull/3551) Thanks
+  [@segunadebayo](https://github.com/segunadebayo)! - Add `root` to number input
+  parts and update `right` to `insetEnd` for it to work in RTL.
+
 ## 1.1.2
 
 ### Patch Changes
